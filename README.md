@@ -40,4 +40,4 @@ This project demonstrates manual and automated API testing using Postman and New
 | BUG003 | Low | Delete returns 201 instead of 204 |
 
 ## Project Documentation
-[Test Plan & Bug Report](YOUR_GOOGLE_DOC_LINK)
+[Test Plan & Bug Report]()
